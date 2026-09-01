@@ -1,6 +1,6 @@
 # Olá, eu sou o Threejay 👋
 
-Desenvolvedor focado em aplicações web, integrações de APIs e automação.
+Desenvolvo aplicações web, integrações de APIs e ferramentas com IA. Construo soluções com foco em segurança, confiabilidade, privacidade e uma boa experiência de uso.
 
 ## 🤖 Linguagens e Tecnologias
 
