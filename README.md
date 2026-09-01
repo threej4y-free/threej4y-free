@@ -1,12 +1,12 @@
+<a href="https://www.linkedin.com/in/renan-william-dourado-martinez-a52b2427b/" target="_blank">
+  <img align="right" height="30" src="https://img.shields.io/badge/LinkedIn-%40Threejay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Threejay" />
+</a>
+
 # Olá, eu sou o Threejay 👋
 
-Desenvolvo aplicações web, integrações de APIs e ferramentas com IA. Construo soluções com foco em segurança, confiabilidade, privacidade e uma boa experiência de uso.
+Sou desenvolvedor de software com foco em aplicações web, integrações de APIs e ferramentas com inteligência artificial. Gosto de transformar necessidades reais em produtos funcionais, unindo interfaces bem construídas, automação e serviços confiáveis.
 
-<p>
-  <a href="https://www.linkedin.com/in/renan-william-dourado-martinez-a52b2427b/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-Renan_William-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Renan William" />
-  </a>
-</p>
+Em cada projeto, priorizo segurança desde a concepção, privacidade dos dados, código legível e uma experiência de uso clara. Busco criar soluções que sejam úteis hoje e permaneçam fáceis de manter e evoluir no futuro.
 
 ## 🤖 Linguagens e Tecnologias
 
