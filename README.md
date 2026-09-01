@@ -2,6 +2,12 @@
 
 Desenvolvo aplicações web, integrações de APIs e ferramentas com IA. Construo soluções com foco em segurança, confiabilidade, privacidade e uma boa experiência de uso.
 
+<p>
+  <a href="https://www.linkedin.com/in/renan-william-dourado-martinez-a52b2427b/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-Renan_William-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Renan William" />
+  </a>
+</p>
+
 ## 🤖 Linguagens e Tecnologias
 
 **Front-end**
