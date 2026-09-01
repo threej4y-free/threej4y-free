@@ -4,24 +4,40 @@ Desenvolvedor focado em aplicações web, integrações de APIs e automação.
 
 ## 🤖 Linguagens e Tecnologias
 
+**Front-end**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,tailwind,sass,php,laravel,jquery,git,python,postgres,redis&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Express, Bootstrap, Tailwind CSS, Sass, PHP, Laravel, jQuery, Git, Python, PostgreSQL e Redis" />
+  <img height="48" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,sass,jquery&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Bootstrap, Tailwind CSS, Sass e jQuery" />
 </p>
 
-## ☁️ Infraestrutura e Deploy
+**Back-end e dados**
 
 <p>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img height="48" src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,postgres,redis&theme=dark" alt="Node.js, Express, PHP, Laravel, Python, PostgreSQL e Redis" />
 </p>
 
-## 🧠 IA e Ferramentas
+**Ferramentas**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img height="32" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img height="32" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img height="32" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img height="32" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img height="32" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+</p>
+
+**Deploy**
+
+<p>
+  <img height="32" src="https://img.shields.io/badge/Railway-6C47FF?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img height="32" src="https://img.shields.io/badge/Vercel-2B2B2B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+## 🧠 Desenvolvimento com IA
+
+<p>
+  <img height="32" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img height="32" src="https://img.shields.io/badge/OpenAI_Codex-1F1F1F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
 </p>
 
 ## 🚀 Projeto em destaque
